@@ -1,0 +1,32 @@
+.logo {
+  width: 7%;
+  height: 7%;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card-img-top {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+}
+.content-subscribe {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content-subscribe a {
+  color: #fff;
+}
+.cart_img {
+  width: 50px;
+  height: 50px;
+}
+.profile_img {
+  width: 90%;
+  /*height: 90%;*/
+  margin: auto;
+  display: block;
+  object-fit: contain;
+}
